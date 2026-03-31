@@ -1,11 +1,4 @@
-CodeChef portfolio: 
-
-
-
-<img width="1675" height="798" alt="Screenshot 2026-03-29 093254" src="https://github.com/user-attachments/assets/0835845f-e5d2-48c6-971a-8519e0bd9d5a" />
-
-
-#CodeChef first challenege completed;
+# HackerRank Challenge 
 
 
 
@@ -44,5 +37,3 @@ The integration of these tools has provided a significant boost to my academic t
 4.  **Foundation:** Strengthening my Python basics ensures a smoother transition into advanced computer science topics and future technical opportunities.
 
 ---
-
-> "Consistent practice on structured platforms transforms coding from a technical chore into a sharpened tool for innovation."
